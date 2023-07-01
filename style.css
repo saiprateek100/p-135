@@ -1,0 +1,30 @@
+body {
+    background-size:cover;
+}
+.heading {
+    width:100%;
+    font-size: 30px;
+    margin: 0px;
+}
+#start, #number_of_objects,#status {
+    font-size: 18px;
+}
+.footer {
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    line-height: 2;
+}
+canvas {
+    border: 5px solid cyan;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px chartreuse;
+}
+
+.label {
+    font-size: 15px;
+}
